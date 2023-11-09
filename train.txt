@@ -1,0 +1,8 @@
+<form align='center' method='GET' action='http://127.0.0.1:9090/train'>
+    <h1 style='text-align: center'>Model used </h1>
+    <select name='name' style='padding:5px'>
+        <option value='RandomForest' selected>RandomForest</option>
+    </select>
+    </br></br>
+    <input style='width:200px;height:30px;font-size:20px' type='submit' value='Train Your Model'>
+</form>
